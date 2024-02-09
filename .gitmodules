@@ -1,4 +1,0 @@
-[submodule "autoblogincludes/extra"]
-	path = autoblogincludes/extra
-	url = git@github.com:wpmudev/wpmudev-dashboard-notification.git
-	branch = master
