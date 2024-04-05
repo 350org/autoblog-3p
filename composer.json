@@ -1,7 +1,7 @@
 {
   "name": "350org/autoblog-3p",
   "description": "This plugin automatically posts content from RSS feeds to different blogs on your WordPress Multisite...",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": ["wordpress", "plugin"],
   "homepage": "https://github.com/350org/autoblog-3p",
   "authors": [
